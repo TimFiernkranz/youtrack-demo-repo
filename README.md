@@ -1,3 +1,3 @@
 # youtrack-demo-repo
-My first line added
-Now in a branch this should add the commit as well :) 
+Now Some new test. It looks like this is all still colelcted together :D
+Now a better mesasge
