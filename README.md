@@ -1,3 +1,1 @@
-s# youtrack-demo-repo
-awdawd
-wfweF
+# youtrack-demo-repo
